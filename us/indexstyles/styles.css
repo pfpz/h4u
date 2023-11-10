@@ -5,8 +5,8 @@ object {
 	height: 100px;
 	background-color: white;
 	border-radius: 25px;
-	padding: 20px;
-	box-shadow: 0px 0px 1px 1px #000;
+	padding: 15px;
+	box-shadow: 0px 0px 10px 1px #000;
 }
 
 body {
@@ -24,6 +24,11 @@ hr {
 	border: 0px;
 	height: 4px;
 	background-color: #243e52;
+		border-color: black;
+	border: 0px;
+	border-radius: 150px;
+	padding: 3px;
+	box-shadow: 0px 0px 10px 1px #000;
 }
 
 daily {
@@ -34,3 +39,19 @@ a {
 	color: white;
 }
 
+button {
+	background-color: #a1acbf;
+	border-radius: 30px;
+	padding: 10px;
+	box-shadow: 0px 0px 10px 1px #000;
+}
+
+hr.hr2 {
+	background-color: black;
+	border-color: black;
+	border: 0px;
+	border-radius: 30px;
+	padding: 2px;
+	height: 2px;
+	width: 300px;
+}
