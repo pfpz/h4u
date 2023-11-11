@@ -56,3 +56,8 @@ hr.hr2 {
 	height: 2px;
 	width: 300px;
 }
+
+mark {
+	background-color: red;
+	color: white;
+}
