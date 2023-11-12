@@ -56,3 +56,8 @@ hr.hr2 {
 	height: 2px;
 	width: 300px;
 }
+
+commentbox {
+	align-items: center;
+	background-color: red;
+}
